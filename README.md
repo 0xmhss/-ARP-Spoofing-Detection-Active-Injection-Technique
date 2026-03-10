@@ -291,9 +291,6 @@ Choose interface (1-2), 0 = first: 1
 | **Institution** | École Supérieure de Technologie — Guelmim (ESTG) |
 | **Program** | Réseaux Informatiques et Sécurité — 1ère Année |
 | **Author** | Mohamed Soussi |
-| **Supervisor** | Prof. Adnane El Mrabty |
-| **Instructors** | Prof. Zakaria El Kamel (Data Structures & Computer Architecture) |
-| | Prof. Rachid Ahdid (C Language & Computer Networks — S1) |
 | **Academic Year** | 2025/2026 |
 
 ---
@@ -309,10 +306,9 @@ Choose interface (1-2), 0 = first: 1
 
 ## License
 
-This project was developed for academic purposes at ESTG Guelmim.
+This project was developed for academic purposes at EST Guelmim.
 Feel free to use it for learning and educational purposes.
 
 ---
 
-> *"ما شممت الورد الا زادني شوقا إليك"*
-> — from the source code comments
+> Mohamed soussi
